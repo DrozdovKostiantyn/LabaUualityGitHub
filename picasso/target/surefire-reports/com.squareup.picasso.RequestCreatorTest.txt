@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.squareup.picasso.RequestCreatorTest
+-------------------------------------------------------------------------------
+Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.176 sec
